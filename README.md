@@ -1,0 +1,2 @@
+# Python-Clipboard-Translator
+ ыы
